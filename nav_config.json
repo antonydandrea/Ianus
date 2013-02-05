@@ -1,0 +1,16 @@
+{
+    "databaseSettings":
+        {"dbName": "dbname", 
+         "tableName":"tblname",
+         "host":"localhost",
+         "username":"root",
+         "password":"",
+         "fields":{
+            "menu_id":"m_id",
+            "menu_label":"label",
+            "menu_category_menu_id":"main_menu_pk",
+            "menu_sort_order":"sort_order",
+            "menu_href":"href"
+         }
+        }
+}
